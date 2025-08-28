@@ -1,6 +1,6 @@
 def modify_file():
     # Ask the user for the input filename
-    input_file = input("Enter the name of the file to read: ")
+    input_file = input("Enter the  file name to read: ")
     
     try:
         # Try to open and read the file
